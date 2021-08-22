@@ -28,6 +28,7 @@ class Column
     const TYPE_DATE = 'date';
     const TYPE_TIME = 'time';
     const TYPE_DATETIME = 'datetime';
+    const TYPE_DATETIME_TZ = 'timestamptz';
     const TYPE_TIMESTAMP = 'timestamp';
     const TYPE_UUID = 'uuid';
     const TYPE_JSON = 'json';
